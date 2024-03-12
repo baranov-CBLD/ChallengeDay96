@@ -11,6 +11,8 @@
 		DE2E5B922BA0AEFE0092E437 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2E5B912BA0AEFE0092E437 /* ContentView.swift */; };
 		DE2E5B942BA0AEFF0092E437 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2E5B932BA0AEFF0092E437 /* Assets.xcassets */; };
 		DE2E5B972BA0AEFF0092E437 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2E5B962BA0AEFF0092E437 /* Preview Assets.xcassets */; };
+		DE2E5B9E2BA0AFAA0092E437 /* DiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2E5B9D2BA0AFAA0092E437 /* DiceView.swift */; };
+		DE2E5BA02BA0AFB00092E437 /* Dice.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2E5B9F2BA0AFB00092E437 /* Dice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DE2E5B912BA0AEFE0092E437 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DE2E5B932BA0AEFF0092E437 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE2E5B962BA0AEFF0092E437 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DE2E5B9D2BA0AFAA0092E437 /* DiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceView.swift; sourceTree = "<group>"; };
+		DE2E5B9F2BA0AFB00092E437 /* Dice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				DE2E5B8F2BA0AEFE0092E437 /* ChallengeDay96App.swift */,
 				DE2E5B912BA0AEFE0092E437 /* ContentView.swift */,
+				DE2E5B9D2BA0AFAA0092E437 /* DiceView.swift */,
+				DE2E5B9F2BA0AFB00092E437 /* Dice.swift */,
 				DE2E5B932BA0AEFF0092E437 /* Assets.xcassets */,
 				DE2E5B952BA0AEFF0092E437 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE2E5B922BA0AEFE0092E437 /* ContentView.swift in Sources */,
+				DE2E5B9E2BA0AFAA0092E437 /* DiceView.swift in Sources */,
+				DE2E5BA02BA0AFB00092E437 /* Dice.swift in Sources */,
 				DE2E5B902BA0AEFE0092E437 /* ChallengeDay96App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
